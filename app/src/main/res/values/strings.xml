@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Web Service</string>
+    <string name="welcome_login">Welcome to the Marvel HQ\'s</string>
+    <string name="tx_email">Email</string>
+    <string name="tx_password">Password</string>
+    <string name="txt_remember">Remember</string>
+    <string name="tx_login">LOG IN</string>
+    <string name="tx_register">Create account</string>
+    <string name="txt_welcome">Welcome to the Marvel HQ\'s</string>
+    <string name="txt_tituloRegister">Register</string>
+    <string name="txt_nome">Name</string>
+    <string name="txt_save">SAVE</string>
+</resources>
